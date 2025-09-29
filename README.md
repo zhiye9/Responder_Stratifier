@@ -3,6 +3,7 @@
 A machine learning framework for identifying intervention responders using both **Causal Forest Double Machine Learning (DML)** and **tree-based ensemble models (Random Forest and XGBoost)** to predict clinical outcomes based on multi-omics data from the HPP ([Human Phenotype Project](https://humanphenotypeproject.org/)) dataset.
 
 ## Overview
+<img width="3234" height="2107" alt="EIC_causal_forest" src="https://github.com/user-attachments/assets/5c30108d-0bae-4dd3-ae5d-a6c610a20c7a" />
 
 This project provides two complementary approaches for responder stratification:
 
